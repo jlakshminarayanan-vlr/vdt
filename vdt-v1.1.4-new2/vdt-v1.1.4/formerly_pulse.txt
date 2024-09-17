@@ -1,0 +1,1 @@
+The Pulse tool has been renamed to VDT (vSphere Diagnostic Tool)
